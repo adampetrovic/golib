@@ -95,6 +95,8 @@ github.com/signalfx/com_signalfx_metrics_protobuf v0.0.1 h1:r5mHbdmAj8EFuVvbe/Mx
 github.com/signalfx/com_signalfx_metrics_protobuf v0.0.1/go.mod h1:QkslgLDW0N9qRi9qkxcNDaf812gg0kWcf3ZZORE5/FI=
 github.com/signalfx/gohistogram v0.0.0-20160107210732-1ccfd2ff5083 h1:WsShHmu12ZztYPfh9b+I+VjYD1o8iOHhB67WZCMEEE8=
 github.com/signalfx/gohistogram v0.0.0-20160107210732-1ccfd2ff5083/go.mod h1:adPDS6s7WaajdFBV9mQ7i0dKfQ8xiDnF9ZNETVPpp7c=
+github.com/signalfx/golib/v3 v3.3.7 h1:7/9bTqFfbPuqslAG7xo1D0CPYGwGB/b8aIMLalTW1kU=
+github.com/signalfx/golib/v3 v3.3.7/go.mod h1:Hn3u/AANc+mA2o6zWbUQ0yw2c6tLZ6f7hBLauKzNRN8=
 github.com/signalfx/gomemcache v0.0.0-20180823214636-4f7ef64c72a9 h1:M3hb9iDDlB3LrR1xI6wiWIA75Ol9eenD5fbV5d3bxjc=
 github.com/signalfx/gomemcache v0.0.0-20180823214636-4f7ef64c72a9/go.mod h1:Ytb8KfCSyuwy/VILnROdgCvbQLA5ch0nkbG7lKT0BXw=
 github.com/signalfx/sapm-proto v0.4.0 h1:5lQX++6FeIjUZEIcnSgBqhOpmSjMkRBW3y/4ZiKMo5E=
