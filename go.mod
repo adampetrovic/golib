@@ -1,4 +1,4 @@
-module github.com/signalfx/golib/v3
+module github.com/adampetrovic/golib/v3
 
 go 1.13
 

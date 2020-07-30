@@ -204,7 +204,7 @@ func (w *datapointWorker) emit(token string) {
 	w.handleError(err, token, w.buffer, w.sink.AddDatapoints)
 	// account for the emitted datapoints
 	atomic.AddInt64(&w.stats.TotalDatapointsBuffered, int64(len(w.buffer)*-1))
-	w.buffer = w.buffer[:0]
+	w.buffer = nil
 }
 
 func (w *datapointWorker) handleError(err error, token string, datapoints []*datapoint.Datapoint, addDatapoints func(context.Context, []*datapoint.Datapoint) error) {
